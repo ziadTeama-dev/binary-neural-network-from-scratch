@@ -129,7 +129,7 @@ The small accuracy drop is expected because the network uses lower precision wei
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git repo clone ziadTeama-dev/binary-neural-network-from-scratch
 ```
 
 Install dependencies:
@@ -140,11 +140,7 @@ pip install -r requirements.txt
 
 ## Run
 
-Run the Python file:
-
-```bash
-python main.py
-```
+Run the jupyter-notebook file
 
 The program will:
 
